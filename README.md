@@ -36,7 +36,6 @@
  ## 📶 Contact
   Here are some ways to get in touch with me: </br>
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=2CA5E0)](https://https://discord.com/channels/@felpsdev/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=2CA5E0)](https://www.instagram.com/igor.gab7/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=2CA5E0)](mailto:felpsdeveloper@outlook.com)
 
  ## 🎯 Git Hub Stats
